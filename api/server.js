@@ -29,4 +29,6 @@ app.use("/api/contact", contactRoutes);
 const facultyRoutes = require("../routes/facultyRoutes");
 app.use("/api/faculty", facultyRoutes);
 
-module.exports = app;
+const serverless = require("serverless-http");
+module.exports = serverless(app);
+
