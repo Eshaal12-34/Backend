@@ -24,6 +24,4 @@ app.use("/api/contact",contactRoutes)
 const facultyRoutes = require("./routes/facultyRoutes")
 app.use("/api/faculty",facultyRoutes)
 
-app.listen(PORT, () =>{
-  console.log("Server is running on port 5000")
-})
+module.exports = app;
