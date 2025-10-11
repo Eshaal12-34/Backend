@@ -9,16 +9,19 @@ app.use(express.json());
 app.use("/uploads" , express.static("uploads"))
 
 mongoose
-  .connect(process.env.MONGO_URI)
-  .then(() => console.log("✅ Backend is running and MongoDB connected"))
-  .catch((err) => console.log("❌ MongoDB connection error:", err.message));
-app.get("/app", (req,res) => {
-    res.send("App is running")
-})
+  .connect(process.env.MONGO_URI, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+  })
+  .then(() => console.log("✅ MongoDB connected successfully"))
+  .catch((err) => {
+    console.error("❌ MongoDB connection error:", err);
+  });
 
-const contactRoutes = require("../routes/contactRoutes")
+
+const contactRoutes = require("./routes/contactRoutes")
 app.use("/api/contact",contactRoutes)
-const facultyRoutes = require("../routes/facultyRoutes")
+const facultyRoutes = require("./routes/facultyRoutes")
 app.use("/api/faculty",facultyRoutes)
 
 app.listen(PORT, () =>{
