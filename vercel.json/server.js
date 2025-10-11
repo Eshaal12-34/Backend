@@ -10,7 +10,7 @@ app.use("/uploads" , express.static("uploads"))
 
 mongoose
   .connect(process.env.MONGO_URI)
-  .then(() => console.log("✅ MongoDB connected"))
+  .then(() => console.log("✅ Backend is running and MongoDB connected"))
   .catch((err) => console.log("❌ MongoDB connection error:", err.message));
 app.get("/app", (req,res) => {
     res.send("App is running")
