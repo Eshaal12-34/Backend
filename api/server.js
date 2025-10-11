@@ -23,8 +23,9 @@ app.get("/", (req, res) => {
 });
 
 // ✅ FIX THESE PATHS (go one folder up because you're inside /api)
-const contactRoutes = require("../routes/contactRoutes");
-const facultyRoutes = require("../routes/facultyRoutes");
+const contactRoutes = require("./routes/contactRoutes");
+const facultyRoutes = require("./routes/facultyRoutes");
+
 
 app.use("/api/contact", contactRoutes);
 app.use("/api/faculty", facultyRoutes);
