@@ -1,5 +1,5 @@
 const express = require("express");
-const Faculty = require("../models/Faculty");
+const Faculty = require("../../models/Faculty");
 const router = express.Router();
 const multer = require("multer");
 
