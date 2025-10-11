@@ -16,9 +16,9 @@ app.get("/app", (req,res) => {
     res.send("App is running")
 })
 
-const contactRoutes = require("./routes/contactRoutes")
+const contactRoutes = require("../routes/contactRoutes")
 app.use("/api/contact",contactRoutes)
-const facultyRoutes = require("./routes/facultyRoutes")
+const facultyRoutes = require("../routes/facultyRoutes")
 app.use("/api/faculty",facultyRoutes)
 
 app.listen(PORT, () =>{
