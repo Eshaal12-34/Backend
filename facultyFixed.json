@@ -1,0 +1,4560 @@
+[
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe37d"
+    },
+    "name": "AKIF HAMEED",
+    "designation": "PakistanStudies Teacher | Academic Incharge",
+    "email": "akifwork@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "BSc ",
+        "institute": "Government College Peshawar. ",
+        "subject": "Physics, Double Mathematics  ",
+        "duration": "2003-2005 ",
+        "_id": {
+          "$oid": "68ac0180a204b5de6fd834d3"
+        }
+      },
+      {
+        "degree": "MBA  ",
+        "institute": "Allama Iqbal Open University Peshawar ",
+        "subject": "Human Resource Management",
+        "duration": " 2005-2007 ",
+        "_id": {
+          "$oid": "68ac0180a204b5de6fd834d4"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Bin Talib institute of English language and computer | Peshawar. ",
+        "years": " 2009 – 2011.",
+        "_id": {
+          "$oid": "68ac0180a204b5de6fd834d5"
+        }
+      },
+      {
+        "title": "Chemistry Lectureship ",
+        "organization": "Peshawar Institute of Technology (College)",
+        "years": "November 2011 –November 2016 ",
+        "_id": {
+          "$oid": "68ac0180a204b5de6fd834d6"
+        }
+      },
+      {
+        "title": "Teacher ",
+        "organization": "New Scholar Public School (Peshawar)  ",
+        "years": "January 2017 – January 2020. ",
+        "_id": {
+          "$oid": "68ac0180a204b5de6fd834d7"
+        }
+      },
+      {
+        "title": "Ticketing & Reservation Officer",
+        "organization": "Air Arabia | Peshawar. ",
+        "years": "February 2020 –October 2021 ",
+        "_id": {
+          "$oid": "68ac0180a204b5de6fd834d8"
+        }
+      },
+      {
+        "title": "Senior Teacher | Academic Incharge ",
+        "organization": "Abasyn University School & College | Peshawar. ",
+        "years": "October 2021 –Present ",
+        "_id": {
+          "$oid": "68ac0180a204b5de6fd834d9"
+        }
+      }
+    ],
+    "image": "1756103040857-akif.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe37e"
+    },
+    "name": "Asif Kamran",
+    "designation": "Physics Teacher",
+    "email": "asifkamran00786@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "BSc",
+        "institute": "Government Degree College",
+        "subject": "Science",
+        "duration": "1999",
+        "_id": {
+          "$oid": "68ac08bba204b5de6fd83530"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Science Teacher",
+        "organization": "Khalid Mohmand Cambridge School",
+        "years": "2001-2005",
+        "_id": {
+          "$oid": "68ac08bba204b5de6fd83531"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Swiss NGO terre des hommes",
+        "years": "20005-2009",
+        "_id": {
+          "$oid": "68ac08bba204b5de6fd83532"
+        }
+      },
+      {
+        "title": "Science Teacher",
+        "organization": "Hudaibia Model School ",
+        "years": "2007-2019",
+        "_id": {
+          "$oid": "68ac08bba204b5de6fd83533"
+        }
+      },
+      {
+        "title": "Senior Science Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2019-present",
+        "_id": {
+          "$oid": "68ac08bba204b5de6fd83534"
+        }
+      }
+    ],
+    "image": "1756104891401-asif.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe37f"
+    },
+    "name": "Hazrat Ullah",
+    "designation": "Computer Teacher",
+    "email": "eng.hazratullah21@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "BSCS ",
+        "institute": "Abasyn University  Peshawar ",
+        "subject": "Computer Science",
+        "duration": "2023 ",
+        "_id": {
+          "$oid": "68ac0c09a204b5de6fd83587"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Computer teacher. ",
+        "organization": "Allied school System ",
+        "years": "May 2023 to April 2024",
+        "_id": {
+          "$oid": "68ac0c09a204b5de6fd83588"
+        }
+      },
+      {
+        "title": "COSMOS Institute of Computer Sciences",
+        "organization": "IT instructor",
+        "years": "10th,April 2023",
+        "_id": {
+          "$oid": "68ac0c09a204b5de6fd83589"
+        }
+      },
+      {
+        "title": "Computer teacher",
+        "organization": "Abasyn University School ",
+        "years": "2024-present",
+        "_id": {
+          "$oid": "68ac0c09a204b5de6fd8358a"
+        }
+      }
+    ],
+    "image": "1756105737358-hazratullah.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe380"
+    },
+    "name": "Aiman Siddiqui",
+    "designation": "Biology Teacher/Academic Incharge",
+    "email": "Aiman.awan21@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "Bsc",
+        "institute": " Govt Girls City College Gulbahar, Peshawar",
+        "subject": "Science",
+        "duration": " 2012",
+        "_id": {
+          "$oid": "68ac0e71a204b5de6fd835e5"
+        }
+      },
+      {
+        "degree": " B.Ed",
+        "institute": " City University of Science & IT, Peshawar",
+        "subject": "Science",
+        "duration": " 2014",
+        "_id": {
+          "$oid": "68ac0e71a204b5de6fd835e6"
+        }
+      },
+      {
+        "degree": " M.Sc ",
+        "institute": "Abasyn University Peshawar",
+        "subject": "Micro Biology",
+        "duration": " 2014-2016",
+        "_id": {
+          "$oid": "68ac0e71a204b5de6fd835e7"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": " Teacher",
+        "organization": " Bin Haleem High School, Peshawar",
+        "years": "4",
+        "_id": {
+          "$oid": "68ac0e71a204b5de6fd835e8"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Peshawar Model School (Boys II)",
+        "years": "3",
+        "_id": {
+          "$oid": "68ac0e71a204b5de6fd835e9"
+        }
+      },
+      {
+        "title": " Teacher/Academic Incharge",
+        "organization": " Abasyn university school",
+        "years": "2021-present",
+        "_id": {
+          "$oid": "68ac0e71a204b5de6fd835ea"
+        }
+      }
+    ],
+    "image": "1756106353484-aiman.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe381"
+    },
+    "name": "Maria Majeed Chishti",
+    "designation": "Islamiyat/M.Quran Teacher",
+    "email": "",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "BA",
+        "institute": "University Of Peshawar",
+        "subject": "Arts",
+        "duration": "1998",
+        "_id": {
+          "$oid": "68a87a4d318174772e95fbf9"
+        }
+      },
+      {
+        "degree": "MA",
+        "institute": "University Of Peshawar",
+        "subject": "Islamiyat",
+        "duration": "2003",
+        "_id": {
+          "$oid": "68a87a4d318174772e95fbfa"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Senior Teacher",
+        "organization": "Frontier Model School Warsak Road",
+        "years": "10",
+        "_id": {
+          "$oid": "68a87a4d318174772e95fbfb"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "City School",
+        "years": "1",
+        "_id": {
+          "$oid": "68a87a4d318174772e95fbfc"
+        }
+      },
+      {
+        "title": "Senior Teacher",
+        "organization": "Smart School",
+        "years": "3",
+        "_id": {
+          "$oid": "68a87a4d318174772e95fbfd"
+        }
+      },
+      {
+        "title": "Senior Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "6 (till present)",
+        "_id": {
+          "$oid": "68a87a4d318174772e95fbfe"
+        }
+      }
+    ],
+    "image": "1755871821578-WhatsApp Image 2025-08-22 at 6.56.45 PM.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe382"
+    },
+    "name": "MUBASHRA MANZOOR",
+    "designation": "Urdu Teacher",
+    "email": "",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "B.A",
+        "institute": "Govt City Girls College Gul bahar  Peshawar",
+        "subject": "Arts",
+        "duration": "---",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836ce"
+        }
+      },
+      {
+        "degree": "MA",
+        "institute": "University of Peshawar",
+        "subject": "Urdu",
+        "duration": "---",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836cf"
+        }
+      },
+      {
+        "degree": "Bachelor of Education (B.Ed)",
+        "institute": "University of Peshawar",
+        "subject": "Education (Institute of Education & Research – IER)",
+        "duration": "---",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836d0"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Govt City Girls College Gul bahar  Peshawar",
+        "years": "---",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836d1"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "ICMS school chamkani Peshawar",
+        "years": "---",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836d2"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Sibyan Academy school ",
+        "years": "---",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836d3"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Allied school chamkani",
+        "years": "---",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836d4"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Govt City Girls College Gul Bahar",
+        "years": "---",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836d5"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Frontier Model School and College Warsak Road Peshawar",
+        "years": "---",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836d6"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University school and College",
+        "years": "-Present",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836d7"
+        }
+      }
+    ],
+    "image": "1756107680201-mubashra.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe383"
+    },
+    "name": "KIRAN PERVAIZ",
+    "designation": "Computer Teacher",
+    "email": "lifegrowth80@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "B.Sc ",
+        "institute": "Shaheed Benazir Bhutto women University Peshawar",
+        "subject": "Computer Science",
+        "duration": "2017",
+        "_id": {
+          "$oid": "68a876d0318174772e95fbbf"
+        }
+      },
+      {
+        "degree": "M.Sc",
+        "institute": "Shaheed Benazir Bhutto women University Peshawar",
+        "subject": "Computer science",
+        "duration": "2020\t",
+        "_id": {
+          "$oid": "68a876d0318174772e95fbc0"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Subject teacher",
+        "organization": "Abasyn University School and College.",
+        "years": "2020 till present",
+        "_id": {
+          "$oid": "68a876d0318174772e95fbc1"
+        }
+      }
+    ],
+    "image": "1755870928477-WhatsApp Image 2025-08-22 at 6.46.11 PM.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe384"
+    },
+    "name": "NOOR UL AIN",
+    "designation": " Mathematics Teacher ",
+    "email": "nrmaa2009@yahoo.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "MBA",
+        "institute": "NWFP Agriculture University Peshawar",
+        "subject": " Human Resource Management",
+        "duration": "2008 – 2009  ",
+        "_id": {
+          "$oid": "68ac10a4a204b5de6fd83694"
+        }
+      },
+      {
+        "degree": "BSc",
+        "institute": " City University Peshawar",
+        "subject": "Science",
+        "duration": "2004 – 2007   ",
+        "_id": {
+          "$oid": "68ac10a4a204b5de6fd83695"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": " Sibyan Academy",
+        "years": "15-10-2009 to 11-01-2010 ",
+        "_id": {
+          "$oid": "68ac10a4a204b5de6fd83696"
+        }
+      },
+      {
+        "title": "Primary Teacher ",
+        "organization": " Peshawar Model School (Boys – V)",
+        "years": "13-04-2010 to 15-06-2012 ",
+        "_id": {
+          "$oid": "68ac10a4a204b5de6fd83697"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": " Educational Services (Pvt) Ltd North Region Beaconhouse School System Cantt Campus",
+        "years": "01-11-2012 to 14-06-2013 ",
+        "_id": {
+          "$oid": "68ac10a4a204b5de6fd83698"
+        }
+      },
+      {
+        "title": " Science Teacher ",
+        "organization": "The Smart School Nisthterabad Campus",
+        "years": "21-08-2013 to 07-06-2014 ",
+        "_id": {
+          "$oid": "68ac10a4a204b5de6fd83699"
+        }
+      },
+      {
+        "title": " Teacher",
+        "organization": "Educational Services (Pvt) Ltd North Region Beaconhouse School System Cantt Campus",
+        "years": " 01-09-2014 to 31-05-2017 ",
+        "_id": {
+          "$oid": "68ac10a4a204b5de6fd8369a"
+        }
+      },
+      {
+        "title": "Mathematics Teacher",
+        "organization": "Abasyn University School & College,",
+        "years": " 15-10-2018 till Date ",
+        "_id": {
+          "$oid": "68ac10a4a204b5de6fd8369b"
+        }
+      }
+    ],
+    "image": "1756106916187-noor.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe385"
+    },
+    "name": " Anum gul",
+    "designation": "Teacher/Academic Incharge",
+    "email": "anumg.ag.ag5@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "BSC",
+        "institute": " Frontier College for Women ",
+        "subject": "Computer Science",
+        "duration": "2010-2011",
+        "_id": {
+          "$oid": "68a843f80a9a12b3d0a7e72e"
+        }
+      },
+      {
+        "degree": "MSC",
+        "institute": "University of Peshawar",
+        "subject": "Computer Science",
+        "duration": "2012-2013",
+        "_id": {
+          "$oid": "68a843f80a9a12b3d0a7e72f"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": " Abasyn University School & College",
+        "years": "2017 – Present",
+        "_id": {
+          "$oid": "68a843f80a9a12b3d0a7e730"
+        }
+      },
+      {
+        "title": "Academic Incharge",
+        "organization": " Abasyn University School & College",
+        "years": "2017 – Present",
+        "_id": {
+          "$oid": "68a843f80a9a12b3d0a7e731"
+        }
+      },
+      {
+        "title": " Discipline Incharge",
+        "organization": " Abasyn University School & College",
+        "years": "2017 – Present",
+        "_id": {
+          "$oid": "68a843f80a9a12b3d0a7e732"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": " The Educators School, Gulbahar Branch",
+        "years": "2014- 2017",
+        "_id": {
+          "$oid": "68a843f80a9a12b3d0a7e733"
+        }
+      }
+    ],
+    "image": "1755857912083-WhatsApp Image 2025-08-21 at 1.10.30 PM.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe386"
+    },
+    "name": "Farah Jahangir",
+    "designation": "Urdu Teacher",
+    "email": "Fnaeem333@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "MA",
+        "institute": "University Of Peshawar",
+        "subject": "Urdu",
+        "duration": "2023",
+        "_id": {
+          "$oid": "68aea363c9dda4f595d79201"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Urdu Teacher",
+        "organization": "Uswah Model School",
+        "years": "2000-2006",
+        "_id": {
+          "$oid": "68aea363c9dda4f595d79202"
+        }
+      },
+      {
+        "title": "Urdu Teacher",
+        "organization": "Hudaibia Model School",
+        "years": "2006-2010",
+        "_id": {
+          "$oid": "68aea363c9dda4f595d79203"
+        }
+      },
+      {
+        "title": "Urdu Teacher",
+        "organization": "Educators",
+        "years": "2011-2012",
+        "_id": {
+          "$oid": "68aea363c9dda4f595d79204"
+        }
+      },
+      {
+        "title": "Urdu Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "August 2022-Present",
+        "_id": {
+          "$oid": "68aea363c9dda4f595d79205"
+        }
+      }
+    ],
+    "image": "1756275555937-farag.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe387"
+    },
+    "name": " Sidra Zafar",
+    "designation": " Science Teacher",
+    "email": "durra6699@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "MSC",
+        "institute": "Shaheed Benazir Bhutto Women University ",
+        "subject": "Organic Chemistry",
+        "duration": "---",
+        "_id": {
+          "$oid": "68aea981c9dda4f595d7920e"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Science Teacher",
+        "organization": "The Smart School ",
+        "years": "3 months",
+        "_id": {
+          "$oid": "68aea981c9dda4f595d7920f"
+        }
+      },
+      {
+        "title": "Science Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2021-Present",
+        "_id": {
+          "$oid": "68aea981c9dda4f595d79210"
+        }
+      }
+    ],
+    "image": "1756277121755-sidra.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe388"
+    },
+    "name": " Ayesha Jahangeer ",
+    "designation": "Chemistry Teacher",
+    "email": "ayeshajahangeer865@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "Msc ",
+        "institute": "Shaheed Benazir Bhutto women university ",
+        "subject": "Science",
+        "duration": "2020",
+        "_id": {
+          "$oid": "68aeaf32c9dda4f595d79303"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Senior Teacher",
+        "organization": "Fauji public high schoo",
+        "years": "2014-2017",
+        "_id": {
+          "$oid": "68aeaf32c9dda4f595d79304"
+        }
+      },
+      {
+        "title": " Senior science teacher ",
+        "organization": "Air Foundation School",
+        "years": "2020-2021.",
+        "_id": {
+          "$oid": "68aeaf32c9dda4f595d79305"
+        }
+      },
+      {
+        "title": "Visiting faculty member",
+        "organization": "Fazaia Degree college",
+        "years": "2021-2022",
+        "_id": {
+          "$oid": "68aeaf32c9dda4f595d79306"
+        }
+      },
+      {
+        "title": "Lecturer",
+        "organization": "Muslim high school and college",
+        "years": "May 2022 -Dec 2024.",
+        "_id": {
+          "$oid": "68aeaf32c9dda4f595d79307"
+        }
+      },
+      {
+        "title": "Senior teacher",
+        "organization": "Abasyn University School & College",
+        "years": "Dec 2024-Present",
+        "_id": {
+          "$oid": "68aeaf32c9dda4f595d79308"
+        }
+      }
+    ],
+    "image": "1756278578111-ayesha.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe389"
+    },
+    "name": "Quratulain Mushtaq",
+    "designation": "Islamiyat/M.Quran Teacher",
+    "email": "ahmadqain@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "BSc",
+        "institute": "Frontier College Peshawar",
+        "subject": "Biological Sciences",
+        "duration": "2007",
+        "_id": {
+          "$oid": "68aeabc0c9dda4f595d792f7"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Sir Syed Public School",
+        "years": "1",
+        "_id": {
+          "$oid": "68aeabc0c9dda4f595d792f8"
+        }
+      },
+      {
+        "title": "Islamiyat Teacher",
+        "organization": "Racines",
+        "years": "1 year",
+        "_id": {
+          "$oid": "68aeabc0c9dda4f595d792f9"
+        }
+      },
+      {
+        "title": "Islamiyat Teacher",
+        "organization": "Air Foundation",
+        "years": "2 years",
+        "_id": {
+          "$oid": "68aeabc0c9dda4f595d792fa"
+        }
+      },
+      {
+        "title": "Islamiyat/M.Quran Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "Oct 2023-Present",
+        "_id": {
+          "$oid": "68aeabc0c9dda4f595d792fb"
+        }
+      }
+    ],
+    "image": "1756277696386-qurutulain.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe38a"
+    },
+    "name": "Anisa Ziauddin",
+    "designation": "English Teacher",
+    "email": "anisazia21@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "BS",
+        "institute": "Shaheed Benazir Bhutto Women University Peshawar",
+        "subject": "English",
+        "duration": "---",
+        "_id": {
+          "$oid": "68af1e02fe5373bbc41e2d94"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "September 2024-Present",
+        "_id": {
+          "$oid": "68af1e02fe5373bbc41e2d95"
+        }
+      }
+    ],
+    "image": "1756306946238-woman-01.jpg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe38b"
+    },
+    "name": "Tabinda",
+    "designation": "Urdu Teacher",
+    "email": "tabindayasir@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "MA",
+        "institute": "Peshawar University",
+        "subject": "Urdu",
+        "duration": "2008",
+        "_id": {
+          "$oid": "68aea7d2c9dda4f595d79208"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Urdu/Islamiyat Teacher",
+        "organization": "ICMS",
+        "years": "August 2013-December 2014",
+        "_id": {
+          "$oid": "68aea7d2c9dda4f595d79209"
+        }
+      },
+      {
+        "title": "Urdu Teacher",
+        "organization": "RACINEs School System",
+        "years": "May 2015-April 2017",
+        "_id": {
+          "$oid": "68aea7d2c9dda4f595d7920a"
+        }
+      },
+      {
+        "title": "Urdu/Islamiyat Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "May 2017-Present",
+        "_id": {
+          "$oid": "68aea7d2c9dda4f595d7920b"
+        }
+      }
+    ],
+    "image": "1756276690748-tabinda.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe38c"
+    },
+    "name": "Aleesha Ahmad",
+    "designation": "Computer Teacher",
+    "email": "Alisha.ahmad6767@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "M.Sc",
+        "institute": "Shaheed Benazir  Bhutto Women University",
+        "subject": "Computer Science",
+        "duration": "2020",
+        "_id": {
+          "$oid": "68aff03272f38cf4f85f29c0"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2020-Present",
+        "_id": {
+          "$oid": "68aff03272f38cf4f85f29c1"
+        }
+      }
+    ],
+    "image": "1756360754861-Aleesha (1).jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe38d"
+    },
+    "name": "  Muhammod Ghufran",
+    "designation": "Maths Teacher",
+    "email": "ghufranambiant@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "BS(HONS)",
+        "institute": "(IBMS)Agriculture University",
+        "subject": "IT",
+        "duration": "2009-2012",
+        "_id": {
+          "$oid": "68aead66c9dda4f595d792fe"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Maths Teacher",
+        "organization": " Hudaibia Model School Gulbahar ",
+        "years": "10 years",
+        "_id": {
+          "$oid": "68aead66c9dda4f595d792ff"
+        }
+      },
+      {
+        "title": "Maths Teacher",
+        "organization": " Abasyn University School",
+        "years": "-Present",
+        "_id": {
+          "$oid": "68aead66c9dda4f595d79300"
+        }
+      }
+    ],
+    "image": "1756278118439-Ghufran.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe38e"
+    },
+    "name": " IQRA JAMEEL",
+    "designation": "Maths Teacher",
+    "email": "iqraobaid55@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "M.BA ",
+        "institute": "Institute of Management studies",
+        "subject": " Finance",
+        "duration": "---",
+        "_id": {
+          "$oid": "68b178800b02e64ff5a573f1"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Admin",
+        "organization": "ICMS School System",
+        "years": "1 year",
+        "_id": {
+          "$oid": "68b178800b02e64ff5a573f2"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "The City School ",
+        "years": "2 years",
+        "_id": {
+          "$oid": "68b178800b02e64ff5a573f3"
+        }
+      },
+      {
+        "title": "Maths Teacher",
+        "organization": "Dr Zareef Memorial School ",
+        "years": "2 years",
+        "_id": {
+          "$oid": "68b178800b02e64ff5a573f4"
+        }
+      },
+      {
+        "title": "Maths Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2022-Present",
+        "_id": {
+          "$oid": "68b178800b02e64ff5a573f5"
+        }
+      }
+    ],
+    "image": "1756461184701-iqra.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe38f"
+    },
+    "name": "Alina Iqbal",
+    "designation": "GK Teacher",
+    "email": "alinaiqbal0000@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "MSc",
+        "institute": "Peshawar University",
+        "subject": "Economics",
+        "duration": "---",
+        "_id": {
+          "$oid": "68b177410b02e64ff5a573ea"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Greenwich grammar school",
+        "years": "10 months",
+        "_id": {
+          "$oid": "68b177410b02e64ff5a573eb"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Allied School Chamkani Campus",
+        "years": "1 year",
+        "_id": {
+          "$oid": "68b177410b02e64ff5a573ec"
+        }
+      },
+      {
+        "title": "Teacher and coordinator",
+        "organization": "The Knowledge School Chamkani Campus",
+        "years": "2 years",
+        "_id": {
+          "$oid": "68b177410b02e64ff5a573ed"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2022-Present",
+        "_id": {
+          "$oid": "68b177410b02e64ff5a573ee"
+        }
+      }
+    ],
+    "image": "1756460865932-alina.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe390"
+    },
+    "name": "Samina Aziz",
+    "designation": "Urdu Teacher",
+    "email": "",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "M.A",
+        "institute": "Peshawar University",
+        "subject": "Urdu",
+        "duration": "---",
+        "_id": {
+          "$oid": "68affc3072f38cf4f85f29c4"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Urdu Teacher",
+        "organization": "Grammar Public School Nisterabad ",
+        "years": "2 years",
+        "_id": {
+          "$oid": "68affc3072f38cf4f85f29c5"
+        }
+      },
+      {
+        "title": "Urdu Teacher",
+        "organization": "Sewa (N.G.O) school",
+        "years": "2 years",
+        "_id": {
+          "$oid": "68affc3072f38cf4f85f29c6"
+        }
+      },
+      {
+        "title": "Urdu Teacher",
+        "organization": "Grammar Public School Gulbahar",
+        "years": "4 Years",
+        "_id": {
+          "$oid": "68affc3072f38cf4f85f29c7"
+        }
+      },
+      {
+        "title": "Urdu/Islmaiyat Teacher",
+        "organization": "City model School and College Gulbahar",
+        "years": "5 Years",
+        "_id": {
+          "$oid": "68affc3072f38cf4f85f29c8"
+        }
+      },
+      {
+        "title": "Urdu Teacher",
+        "organization": "K.I.C school",
+        "years": "5 years",
+        "_id": {
+          "$oid": "68affc3072f38cf4f85f29c9"
+        }
+      },
+      {
+        "title": "Urdu Teacher",
+        "organization": "Nimra Public School",
+        "years": "7 Years",
+        "_id": {
+          "$oid": "68affc3072f38cf4f85f29ca"
+        }
+      },
+      {
+        "title": "Urdu Teacher",
+        "organization": "Abasyn University School and College",
+        "years": "2019-Present",
+        "_id": {
+          "$oid": "68affc3072f38cf4f85f29cb"
+        }
+      }
+    ],
+    "image": "1756363824296-samina.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe391"
+    },
+    "name": " QURAT-UL-AIN SETHI  \t",
+    "designation": "Librarian/Junior Academic Incharge",
+    "email": "annie27qs@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "MSc",
+        "institute": "University Of Peshawar",
+        "subject": " Psychology",
+        "duration": "2014",
+        "_id": {
+          "$oid": "68b17abc0b02e64ff5a573f8"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Psychologist and Lecture",
+        "organization": "Army Public School & College ",
+        "years": " 2016-2017",
+        "_id": {
+          "$oid": "68b17abc0b02e64ff5a573f9"
+        }
+      },
+      {
+        "title": "Librarian/Academic Incharge",
+        "organization": "Abasyn University School & College",
+        "years": "-Present",
+        "_id": {
+          "$oid": "68b17abc0b02e64ff5a573fa"
+        }
+      }
+    ],
+    "image": "1756461756587-annie.jpeg",
+    "language": "English"
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe392"
+    },
+    "name": "Hira Salah-Ud-Din",
+    "designation": "GK Teacher",
+    "email": "",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "BSc",
+        "institute": "University Of Peshawar",
+        "subject": "Zoology",
+        "duration": "2006-2008",
+        "_id": {
+          "$oid": "68b17c020b02e64ff5a573fd"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "English Grammar School",
+        "years": "2008-2010",
+        "_id": {
+          "$oid": "68b17c020b02e64ff5a573fe"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Educators School Gulabahar",
+        "years": "2022-2023",
+        "_id": {
+          "$oid": "68b17c020b02e64ff5a573ff"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2023-Present",
+        "_id": {
+          "$oid": "68b17c020b02e64ff5a57400"
+        }
+      }
+    ],
+    "image": "1756462082657-hira.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe393"
+    },
+    "name": "Sadarat Bibi",
+    "designation": "Nazra Teacher",
+    "email": "hamidullah4488@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "M.A",
+        "institute": "---",
+        "subject": "Islamiyat",
+        "duration": "2016",
+        "_id": {
+          "$oid": "68b28d53deedf588b0c24a6e"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Al-Haziq Model School",
+        "years": "3 years",
+        "_id": {
+          "$oid": "68b28d53deedf588b0c24a6f"
+        }
+      },
+      {
+        "title": "Lady Teacher",
+        "organization": "Frobels System School",
+        "years": "---",
+        "_id": {
+          "$oid": "68b28d53deedf588b0c24a70"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School and College",
+        "years": "2023-Present",
+        "_id": {
+          "$oid": "68b28d53deedf588b0c24a71"
+        }
+      }
+    ],
+    "image": "1756532051636-sadarat.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe394"
+    },
+    "name": "MEHWISH MUNIR",
+    "designation": "Teacher",
+    "email": "mehwishadnan76@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "Masters",
+        "institute": "Al- Khair University ",
+        "subject": "Business Administration ",
+        "duration": "1999",
+        "_id": {
+          "$oid": "68b290e1deedf588b0c24a7c"
+        }
+      },
+      {
+        "degree": "Masters",
+        "institute": "Peshawar University",
+        "subject": "Economics",
+        "duration": "2003",
+        "_id": {
+          "$oid": "68b290e1deedf588b0c24a7d"
+        }
+      },
+      {
+        "degree": "MPhil",
+        "institute": "Abasyn University Peshawar.",
+        "subject": "Economics",
+        "duration": "2019 -2021",
+        "_id": {
+          "$oid": "68b290e1deedf588b0c24a7e"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "ACCOUNTS EXECUTIVE",
+        "organization": "Rehman Medical Institute",
+        "years": " 2002-2003",
+        "_id": {
+          "$oid": "68b290e1deedf588b0c24a7f"
+        }
+      },
+      {
+        "title": "Finance Manager",
+        "organization": "SDC/UNDP Funded Project EIROP",
+        "years": "2003 - 2004",
+        "_id": {
+          "$oid": "68b290e1deedf588b0c24a80"
+        }
+      },
+      {
+        "title": "Lecturer",
+        "organization": "CECOSE University Hayatabad ",
+        "years": "2005- 2013",
+        "_id": {
+          "$oid": "68b290e1deedf588b0c24a81"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College.",
+        "years": "2018-Present",
+        "_id": {
+          "$oid": "68b290e1deedf588b0c24a82"
+        }
+      }
+    ],
+    "image": "1756532961261-Mehwish.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe395"
+    },
+    "name": "Sidra Javed",
+    "designation": "Maths Teacher",
+    "email": "sidrajaveed22@yahoo.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "M.Sc ",
+        "institute": "Peshawar University",
+        "subject": "Economics",
+        "duration": "2008",
+        "_id": {
+          "$oid": "68bbd7e42d50c68d634f5671"
+        }
+      },
+      {
+        "degree": "M. Phil",
+        "institute": "Qurtaba University",
+        "subject": "Economics",
+        "duration": " 2019",
+        "_id": {
+          "$oid": "68bbd7e42d50c68d634f5672"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Maths Teacher",
+        "organization": "The Smart School ",
+        "years": "March 2019 till May 2021",
+        "_id": {
+          "$oid": "68bbd7e42d50c68d634f5673"
+        }
+      },
+      {
+        "title": "Maths Teacher",
+        "organization": "Air foundation School ",
+        "years": " March 2022 to December 2023",
+        "_id": {
+          "$oid": "68bbd7e42d50c68d634f5674"
+        }
+      },
+      {
+        "title": "Maths Teacher",
+        "organization": "ICMS School Ring road campus ",
+        "years": "January 2024 till October 2024",
+        "_id": {
+          "$oid": "68bbd7e42d50c68d634f5675"
+        }
+      },
+      {
+        "title": "Maths Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2024-present",
+        "_id": {
+          "$oid": "68bbd7e42d50c68d634f5676"
+        }
+      }
+    ],
+    "image": "1757140964940-WhatsApp Image 2025-09-06 at 10.39.58 AM.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe396"
+    },
+    "name": "Maria Noor",
+    "designation": "Pre-Nursery Teacher",
+    "email": "",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": "M.A",
+        "institute": "---",
+        "subject": "Arts",
+        "duration": "2014",
+        "_id": {
+          "$oid": "68bbdc9d2d50c68d634f57db"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Hudaibia Model School",
+        "years": "5 years",
+        "_id": {
+          "$oid": "68bbdc9d2d50c68d634f57dc"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Peshawar Model School",
+        "years": "3 years",
+        "_id": {
+          "$oid": "68bbdc9d2d50c68d634f57dd"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Forward School",
+        "years": "2 years",
+        "_id": {
+          "$oid": "68bbdc9d2d50c68d634f57de"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "The Educators",
+        "years": "2 years",
+        "_id": {
+          "$oid": "68bbdc9d2d50c68d634f57df"
+        }
+      },
+      {
+        "title": "Techer",
+        "organization": "Abasyn University School & College",
+        "years": "2022-Present",
+        "_id": {
+          "$oid": "68bbdc9d2d50c68d634f57e0"
+        }
+      }
+    ],
+    "image": "1757142173366-WhatsApp Image 2025-08-30 at 11.28.49 AM.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe397"
+    },
+    "name": "Zoneera Mehboob",
+    "designation": "Nursery Teacher",
+    "email": "",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": "B.A",
+        "institute": "Hazara University",
+        "subject": "Arts",
+        "duration": "---",
+        "_id": {
+          "$oid": "68bbde372d50c68d634f581f"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Ali Garh Public School",
+        "years": "1 year",
+        "_id": {
+          "$oid": "68bbde372d50c68d634f5820"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "New Garden Public School",
+        "years": "1 year",
+        "_id": {
+          "$oid": "68bbde372d50c68d634f5821"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "The Knowledge School",
+        "years": "6 years",
+        "_id": {
+          "$oid": "68bbde372d50c68d634f5822"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2024-Present",
+        "_id": {
+          "$oid": "68bbde372d50c68d634f5823"
+        }
+      }
+    ],
+    "image": "1757142583114-WhatsApp Image 2025-08-30 at 11.29.08 AM.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe398"
+    },
+    "name": "Iqra Noor",
+    "designation": "Nursery Teacher",
+    "email": "",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": "M.A",
+        "institute": "---",
+        "subject": "Arts",
+        "duration": "2023",
+        "_id": {
+          "$oid": "68bbdf302d50c68d634f5826"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "The Educators",
+        "years": "4 years",
+        "_id": {
+          "$oid": "68bbdf302d50c68d634f5827"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2024-Present",
+        "_id": {
+          "$oid": "68bbdf302d50c68d634f5828"
+        }
+      }
+    ],
+    "image": "1757142832659-WhatsApp Image 2025-08-29 at 9.53.23 PM.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe399"
+    },
+    "name": "Sundas Bibi",
+    "designation": "KG Teacher",
+    "email": "",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": "M.A",
+        "institute": "University of Peshawar",
+        "subject": "Islamiyat",
+        "duration": "---",
+        "_id": {
+          "$oid": "68bbe0332d50c68d634f582b"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": " Sanabil School System",
+        "years": "1 Year",
+        "_id": {
+          "$oid": "68bbe0332d50c68d634f582c"
+        }
+      },
+      {
+        "title": "Teacher ",
+        "organization": "Racines School System",
+        "years": "1 Year",
+        "_id": {
+          "$oid": "68bbe0332d50c68d634f582d"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Govt.Girls High School Sheikhabad",
+        "years": "5 months",
+        "_id": {
+          "$oid": "68bbe0332d50c68d634f582e"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Superior Model School",
+        "years": " 3 Years",
+        "_id": {
+          "$oid": "68bbe0332d50c68d634f582f"
+        }
+      },
+      {
+        "title": "Teacher ",
+        "organization": " Abasyn University School & College",
+        "years": "2019-present",
+        "_id": {
+          "$oid": "68bbe0332d50c68d634f5830"
+        }
+      }
+    ],
+    "image": "1757143091403-WhatsApp Image 2025-08-30 at 11.30.48 AM.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe39a"
+    },
+    "name": "NAYAB TARIQ",
+    "designation": "KG Teacher",
+    "email": "zain2381fm@gmail.com",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": "MA",
+        "institute": "University Of Peshawar",
+        "subject": "Gender Studies",
+        "duration": "2014",
+        "_id": {
+          "$oid": "68bbe30c2d50c68d634f5841"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Internship",
+        "organization": "Fauji Foundation Teaching Hospital",
+        "years": " Mar-2012 to May-2012.",
+        "_id": {
+          "$oid": "68bbe30c2d50c68d634f5842"
+        }
+      },
+      {
+        "title": " Lecturer ",
+        "organization": " Jinnah International Degree College Peshawar ",
+        "years": "Sep-2015 to Dec 2017",
+        "_id": {
+          "$oid": "68bbe30c2d50c68d634f5843"
+        }
+      },
+      {
+        "title": "Coordinator",
+        "organization": " Creative Learning School Jhagra",
+        "years": " Apr-2019 to Mar-2020",
+        "_id": {
+          "$oid": "68bbe30c2d50c68d634f5844"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "Apr-2020 -Present",
+        "_id": {
+          "$oid": "68bbe30c2d50c68d634f5845"
+        }
+      }
+    ],
+    "image": "1757143820484-WhatsApp Image 2025-08-29 at 9.58.40 PM.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe39b"
+    },
+    "name": "SYEDA KHUBROO FATIMA",
+    "designation": "KG Teacher",
+    "email": "Khubroofatima77@gmail.com",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": "B.Ed",
+        "institute": "University of Peshawar",
+        "subject": "Education",
+        "duration": "2023",
+        "_id": {
+          "$oid": "68bbe1602d50c68d634f583b"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Edward English Institute",
+        "years": "2019 - 2020",
+        "_id": {
+          "$oid": "68bbe1602d50c68d634f583c"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "University Model School",
+        "years": "2022 – 2023",
+        "_id": {
+          "$oid": "68bbe1602d50c68d634f583d"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School and College",
+        "years": "2023-Present",
+        "_id": {
+          "$oid": "68bbe1602d50c68d634f583e"
+        }
+      }
+    ],
+    "image": "1757143392620-WhatsApp Image 2025-08-29 at 9.53.23 PM (2).jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe39c"
+    },
+    "name": "Sara Abbas",
+    "designation": "Calligraphy Teacher",
+    "email": "",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "B.A",
+        "institute": "University Of Peshawar",
+        "subject": "Arts",
+        "duration": "2017",
+        "_id": {
+          "$oid": "68bbe5672d50c68d634f58ff"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Racines School System",
+        "years": "6 Months",
+        "_id": {
+          "$oid": "68bbe5672d50c68d634f5900"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Iqra Jannat Ul Atfal School",
+        "years": "1 year",
+        "_id": {
+          "$oid": "68bbe5672d50c68d634f5901"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Sir Syed Public School",
+        "years": "2 year",
+        "_id": {
+          "$oid": "68bbe5672d50c68d634f5902"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Sir Syed Public School",
+        "years": "2 Year",
+        "_id": {
+          "$oid": "68bbe5672d50c68d634f5903"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Peshawar Model School Boys III",
+        "years": "3 years",
+        "_id": {
+          "$oid": "68bbe5672d50c68d634f5904"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2025-Present",
+        "_id": {
+          "$oid": "68bbe5672d50c68d634f5905"
+        }
+      }
+    ],
+    "image": "1757144423945-sara.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe39d"
+    },
+    "name": " RIMSHA SHAKIR ",
+    "designation": "KG Teacher",
+    "email": "rimshashakir15@gmail.com",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": " BS ",
+        "institute": "---",
+        "subject": "Zoology",
+        "duration": "2021",
+        "_id": {
+          "$oid": "68bed3bb04850516c6009365"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2021 -Present",
+        "_id": {
+          "$oid": "68bed3bb04850516c6009366"
+        }
+      }
+    ],
+    "image": "1757336507391-WhatsApp Image 2025-08-29 at 9.53.23 PM (3).jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe39e"
+    },
+    "name": "Saman Mustafa",
+    "designation": "Nursery Teacher",
+    "email": "",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": "M.A",
+        "institute": "---",
+        "subject": "Arts",
+        "duration": "In Progress",
+        "_id": {
+          "$oid": "68bed55104850516c60093a9"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2021-Present",
+        "_id": {
+          "$oid": "68bed55104850516c60093aa"
+        }
+      }
+    ],
+    "image": "1757336913794-WhatsApp Image 2025-08-30 at 12.14.56 PM.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe39f"
+    },
+    "name": "Sidra Ali",
+    "designation": "Pre-nursery Teacher",
+    "email": "sa8060958@gmail.com",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": "MS",
+        "institute": "---",
+        "subject": "Education ",
+        "duration": "In Progress",
+        "_id": {
+          "$oid": "68bed60004850516c60093ad"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School and College  ",
+        "years": "2024 – Present",
+        "_id": {
+          "$oid": "68bed60004850516c60093ae"
+        }
+      }
+    ],
+    "image": "1757337088017-WhatsApp Image 2025-08-29 at 9.53.23 PM (4).jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe3a0"
+    },
+    "name": "Munazza Batool",
+    "designation": "Pak-studies Teacher",
+    "email": "munazzahbatool7@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "M.A",
+        "institute": "Peshawar University",
+        "subject": "History",
+        "duration": "2017",
+        "_id": {
+          "$oid": "68bed86d04850516c600940b"
+        }
+      },
+      {
+        "degree": "M.A",
+        "institute": "University Of Peshawar",
+        "subject": "International Relations",
+        "duration": "2022",
+        "_id": {
+          "$oid": "68bed86d04850516c600940c"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Muslim Cambridge Public High School",
+        "years": "---",
+        "_id": {
+          "$oid": "68bed86d04850516c600940d"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "The Allied School",
+        "years": "---",
+        "_id": {
+          "$oid": "68bed86d04850516c600940e"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "The Smart School",
+        "years": "---",
+        "_id": {
+          "$oid": "68bed86d04850516c600940f"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2024-Present",
+        "_id": {
+          "$oid": "68bed86d04850516c6009410"
+        }
+      }
+    ],
+    "image": "1757337709265-WhatsApp Image 2025-09-06 at 10.38.32 AM.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe3a1"
+    },
+    "name": "Bushra Parveen",
+    "designation": "Islamiyat Teacher",
+    "email": "",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "M.A ",
+        "institute": "---",
+        "subject": "Islamiyat",
+        "duration": "---",
+        "_id": {
+          "$oid": "68bed93504850516c6009413"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Educators school town campus",
+        "years": "5 years",
+        "_id": {
+          "$oid": "68bed93504850516c6009414"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2018-Present",
+        "_id": {
+          "$oid": "68bed93504850516c6009415"
+        }
+      }
+    ],
+    "image": "1757337909836-WhatsApp Image 2025-08-28 at 10.56.29 AM (1).jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe3a2"
+    },
+    "name": "SAIMA BASHIR",
+    "designation": "Maths Teacher",
+    "email": "fma23122015@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "B.ED",
+        "institute": "Allama Iqbal Open University",
+        "subject": "Maths + Statistic",
+        "duration": "2016",
+        "_id": {
+          "$oid": "68beda9904850516c60094d5"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Wisdom Public School",
+        "years": "2 years",
+        "_id": {
+          "$oid": "68beda9904850516c60094d6"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Peshawar Children Academy ",
+        "years": "5 years",
+        "_id": {
+          "$oid": "68beda9904850516c60094d7"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2024-Present",
+        "_id": {
+          "$oid": "68beda9904850516c60094d8"
+        }
+      }
+    ],
+    "image": "1757338265494-WhatsApp Image 2025-08-27 at 11.31.55 PM (2).jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe3a3"
+    },
+    "name": " Laila Saleh",
+    "designation": "Academic Incharge",
+    "email": "lailasaleh88@gmail.com",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": "Master of Arts",
+        "institute": " UNIVERSITY OF PESHAWAR",
+        "subject": "Political Science",
+        "duration": " 2014",
+        "_id": {
+          "$oid": "68bef1f471c8c99ce26befc5"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": " Teacher",
+        "organization": " Asian Model School",
+        "years": " 2011 - 2013",
+        "_id": {
+          "$oid": "68bef1f471c8c99ce26befc6"
+        }
+      },
+      {
+        "title": " Teacher",
+        "organization": "The Educators Gulbahar Campus, Gulbahar",
+        "years": " 2014 - 2014",
+        "_id": {
+          "$oid": "68bef1f471c8c99ce26befc7"
+        }
+      },
+      {
+        "title": " Teacher",
+        "organization": " Allied School Gulbahar Campus, Gulbahar",
+        "years": " 2016 - 2016",
+        "_id": {
+          "$oid": "68bef1f471c8c99ce26befc8"
+        }
+      },
+      {
+        "title": " Preschool academic Incharge",
+        "organization": " Abasyn University School and college",
+        "years": " 2017 - Present",
+        "_id": {
+          "$oid": "68bef1f471c8c99ce26befc9"
+        }
+      }
+    ],
+    "image": "1757344243973-faculty1.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe3a4"
+    },
+    "name": " Farah Saeed",
+    "designation": "English Teacher",
+    "email": "farahsaeedch22@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "BS ",
+        "institute": "Shaheed Benazir Bhutto Women University",
+        "subject": "Chemistry",
+        "duration": "2019-2023",
+        "_id": {
+          "$oid": "68bef36671c8c99ce26beff5"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": " Standard education system",
+        "years": "---",
+        "_id": {
+          "$oid": "68bef36671c8c99ce26beff6"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Galaxy model school",
+        "years": "---",
+        "_id": {
+          "$oid": "68bef36671c8c99ce26beff7"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "ICMS ",
+        "years": "---",
+        "_id": {
+          "$oid": "68bef36671c8c99ce26beff8"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2024-Present",
+        "_id": {
+          "$oid": "68bef36671c8c99ce26beff9"
+        }
+      }
+    ],
+    "image": "1757344614697-WhatsApp Image 2025-09-08 at 8.14.07 PM.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8ee0139eecbedc74fe3a5"
+    },
+    "name": "FARYAL HABIB",
+    "designation": "Chemistry Teacher/Discipline Incharge",
+    "email": "faryme@hotmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "Masters",
+        "institute": "University of Peshawar",
+        "subject": "Education",
+        "duration": "2017",
+        "_id": {
+          "$oid": "68befb6171c8c99ce26bf31d"
+        }
+      },
+      {
+        "degree": "Mphil",
+        "institute": "Abasyn University",
+        "subject": "Education",
+        "duration": "2022",
+        "_id": {
+          "$oid": "68befb6171c8c99ce26bf31e"
+        }
+      },
+      {
+        "degree": "Masters",
+        "institute": "University of Peshawar",
+        "subject": "Chemistry",
+        "duration": "2013",
+        "_id": {
+          "$oid": "68befb6171c8c99ce26bf31f"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Peshawar Model School",
+        "years": "1 year",
+        "_id": {
+          "$oid": "68befb6171c8c99ce26bf320"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Roots millennium School ",
+        "years": "1 year",
+        "_id": {
+          "$oid": "68befb6171c8c99ce26bf321"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Forward high School",
+        "years": "5 years",
+        "_id": {
+          "$oid": "68befb6171c8c99ce26bf322"
+        }
+      },
+      {
+        "title": "Lecturer",
+        "organization": "Jinnah Islamia Degree College for girls",
+        "years": "---",
+        "_id": {
+          "$oid": "68befb6171c8c99ce26bf323"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Lahore Grammar School",
+        "years": "---",
+        "_id": {
+          "$oid": "68befb6171c8c99ce26bf324"
+        }
+      },
+      {
+        "title": "Teacher/Academic Incharge",
+        "organization": "Abasyn University school and college ",
+        "years": "2019-Present",
+        "_id": {
+          "$oid": "68befb6171c8c99ce26bf325"
+        }
+      }
+    ],
+    "image": "1757346657099-WhatsApp Image 2025-09-08 at 8.40.09 PM.jpeg",
+    "language": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd88e"
+    },
+    "name": "AKIF HAMEED",
+    "designation": "PakistanStudies Teacher | Academic Incharge",
+    "email": "akifwork@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "BSc ",
+        "institute": "Government College Peshawar. ",
+        "subject": "Physics, Double Mathematics  ",
+        "duration": "2003-2005 ",
+        "_id": {
+          "$oid": "68ac0180a204b5de6fd834d3"
+        }
+      },
+      {
+        "degree": "MBA  ",
+        "institute": "Allama Iqbal Open University Peshawar ",
+        "subject": "Human Resource Management",
+        "duration": " 2005-2007 ",
+        "_id": {
+          "$oid": "68ac0180a204b5de6fd834d4"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Bin Talib institute of English language and computer | Peshawar. ",
+        "years": " 2009 – 2011.",
+        "_id": {
+          "$oid": "68ac0180a204b5de6fd834d5"
+        }
+      },
+      {
+        "title": "Chemistry Lectureship ",
+        "organization": "Peshawar Institute of Technology (College)",
+        "years": "November 2011 –November 2016 ",
+        "_id": {
+          "$oid": "68ac0180a204b5de6fd834d6"
+        }
+      },
+      {
+        "title": "Teacher ",
+        "organization": "New Scholar Public School (Peshawar)  ",
+        "years": "January 2017 – January 2020. ",
+        "_id": {
+          "$oid": "68ac0180a204b5de6fd834d7"
+        }
+      },
+      {
+        "title": "Ticketing & Reservation Officer",
+        "organization": "Air Arabia | Peshawar. ",
+        "years": "February 2020 –October 2021 ",
+        "_id": {
+          "$oid": "68ac0180a204b5de6fd834d8"
+        }
+      },
+      {
+        "title": "Senior Teacher | Academic Incharge ",
+        "organization": "Abasyn University School & College | Peshawar. ",
+        "years": "October 2021 –Present ",
+        "_id": {
+          "$oid": "68ac0180a204b5de6fd834d9"
+        }
+      }
+    ],
+    "image": "1756103040857-akif.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd88f"
+    },
+    "name": "Asif Kamran",
+    "designation": "Physics Teacher",
+    "email": "asifkamran00786@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "BSc",
+        "institute": "Government Degree College",
+        "subject": "Science",
+        "duration": "1999",
+        "_id": {
+          "$oid": "68ac08bba204b5de6fd83530"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Science Teacher",
+        "organization": "Khalid Mohmand Cambridge School",
+        "years": "2001-2005",
+        "_id": {
+          "$oid": "68ac08bba204b5de6fd83531"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Swiss NGO terre des hommes",
+        "years": "20005-2009",
+        "_id": {
+          "$oid": "68ac08bba204b5de6fd83532"
+        }
+      },
+      {
+        "title": "Science Teacher",
+        "organization": "Hudaibia Model School ",
+        "years": "2007-2019",
+        "_id": {
+          "$oid": "68ac08bba204b5de6fd83533"
+        }
+      },
+      {
+        "title": "Senior Science Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2019-present",
+        "_id": {
+          "$oid": "68ac08bba204b5de6fd83534"
+        }
+      }
+    ],
+    "image": "1756104891401-asif.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd890"
+    },
+    "name": "Hazrat Ullah",
+    "designation": "Computer Teacher",
+    "email": "eng.hazratullah21@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "BSCS ",
+        "institute": "Abasyn University  Peshawar ",
+        "subject": "Computer Science",
+        "duration": "2023 ",
+        "_id": {
+          "$oid": "68ac0c09a204b5de6fd83587"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Computer teacher. ",
+        "organization": "Allied school System ",
+        "years": "May 2023 to April 2024",
+        "_id": {
+          "$oid": "68ac0c09a204b5de6fd83588"
+        }
+      },
+      {
+        "title": "COSMOS Institute of Computer Sciences",
+        "organization": "IT instructor",
+        "years": "10th,April 2023",
+        "_id": {
+          "$oid": "68ac0c09a204b5de6fd83589"
+        }
+      },
+      {
+        "title": "Computer teacher",
+        "organization": "Abasyn University School ",
+        "years": "2024-present",
+        "_id": {
+          "$oid": "68ac0c09a204b5de6fd8358a"
+        }
+      }
+    ],
+    "image": "1756105737358-hazratullah.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd891"
+    },
+    "name": "Aiman Siddiqui",
+    "designation": "Biology Teacher/Academic Incharge",
+    "email": "Aiman.awan21@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "Bsc",
+        "institute": " Govt Girls City College Gulbahar, Peshawar",
+        "subject": "Science",
+        "duration": " 2012",
+        "_id": {
+          "$oid": "68ac0e71a204b5de6fd835e5"
+        }
+      },
+      {
+        "degree": " B.Ed",
+        "institute": " City University of Science & IT, Peshawar",
+        "subject": "Science",
+        "duration": " 2014",
+        "_id": {
+          "$oid": "68ac0e71a204b5de6fd835e6"
+        }
+      },
+      {
+        "degree": " M.Sc ",
+        "institute": "Abasyn University Peshawar",
+        "subject": "Micro Biology",
+        "duration": " 2014-2016",
+        "_id": {
+          "$oid": "68ac0e71a204b5de6fd835e7"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": " Teacher",
+        "organization": " Bin Haleem High School, Peshawar",
+        "years": "4",
+        "_id": {
+          "$oid": "68ac0e71a204b5de6fd835e8"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Peshawar Model School (Boys II)",
+        "years": "3",
+        "_id": {
+          "$oid": "68ac0e71a204b5de6fd835e9"
+        }
+      },
+      {
+        "title": " Teacher/Academic Incharge",
+        "organization": " Abasyn university school",
+        "years": "2021-present",
+        "_id": {
+          "$oid": "68ac0e71a204b5de6fd835ea"
+        }
+      }
+    ],
+    "image": "1756106353484-aiman.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd892"
+    },
+    "name": "Maria Majeed Chishti",
+    "designation": "Islamiyat/M.Quran Teacher",
+    "email": "",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "BA",
+        "institute": "University Of Peshawar",
+        "subject": "Arts",
+        "duration": "1998",
+        "_id": {
+          "$oid": "68a87a4d318174772e95fbf9"
+        }
+      },
+      {
+        "degree": "MA",
+        "institute": "University Of Peshawar",
+        "subject": "Islamiyat",
+        "duration": "2003",
+        "_id": {
+          "$oid": "68a87a4d318174772e95fbfa"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Senior Teacher",
+        "organization": "Frontier Model School Warsak Road",
+        "years": "10",
+        "_id": {
+          "$oid": "68a87a4d318174772e95fbfb"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "City School",
+        "years": "1",
+        "_id": {
+          "$oid": "68a87a4d318174772e95fbfc"
+        }
+      },
+      {
+        "title": "Senior Teacher",
+        "organization": "Smart School",
+        "years": "3",
+        "_id": {
+          "$oid": "68a87a4d318174772e95fbfd"
+        }
+      },
+      {
+        "title": "Senior Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "6 (till present)",
+        "_id": {
+          "$oid": "68a87a4d318174772e95fbfe"
+        }
+      }
+    ],
+    "image": "1755871821578-WhatsApp Image 2025-08-22 at 6.56.45 PM.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd893"
+    },
+    "name": "MUBASHRA MANZOOR",
+    "designation": "Urdu Teacher",
+    "email": "",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "B.A",
+        "institute": "Govt City Girls College Gul bahar  Peshawar",
+        "subject": "Arts",
+        "duration": "---",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836ce"
+        }
+      },
+      {
+        "degree": "MA",
+        "institute": "University of Peshawar",
+        "subject": "Urdu",
+        "duration": "---",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836cf"
+        }
+      },
+      {
+        "degree": "Bachelor of Education (B.Ed)",
+        "institute": "University of Peshawar",
+        "subject": "Education (Institute of Education & Research – IER)",
+        "duration": "---",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836d0"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Govt City Girls College Gul bahar  Peshawar",
+        "years": "---",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836d1"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "ICMS school chamkani Peshawar",
+        "years": "---",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836d2"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Sibyan Academy school ",
+        "years": "---",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836d3"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Allied school chamkani",
+        "years": "---",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836d4"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Govt City Girls College Gul Bahar",
+        "years": "---",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836d5"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Frontier Model School and College Warsak Road Peshawar",
+        "years": "---",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836d6"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University school and College",
+        "years": "-Present",
+        "_id": {
+          "$oid": "68ac13a0a204b5de6fd836d7"
+        }
+      }
+    ],
+    "image": "1756107680201-mubashra.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd894"
+    },
+    "name": "KIRAN PERVAIZ",
+    "designation": "Computer Teacher",
+    "email": "lifegrowth80@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "B.Sc ",
+        "institute": "Shaheed Benazir Bhutto women University Peshawar",
+        "subject": "Computer Science",
+        "duration": "2017",
+        "_id": {
+          "$oid": "68a876d0318174772e95fbbf"
+        }
+      },
+      {
+        "degree": "M.Sc",
+        "institute": "Shaheed Benazir Bhutto women University Peshawar",
+        "subject": "Computer science",
+        "duration": "2020\t",
+        "_id": {
+          "$oid": "68a876d0318174772e95fbc0"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Subject teacher",
+        "organization": "Abasyn University School and College.",
+        "years": "2020 till present",
+        "_id": {
+          "$oid": "68a876d0318174772e95fbc1"
+        }
+      }
+    ],
+    "image": "1755870928477-WhatsApp Image 2025-08-22 at 6.46.11 PM.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd895"
+    },
+    "name": "NOOR UL AIN",
+    "designation": " Mathematics Teacher ",
+    "email": "nrmaa2009@yahoo.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "MBA",
+        "institute": "NWFP Agriculture University Peshawar",
+        "subject": " Human Resource Management",
+        "duration": "2008 – 2009  ",
+        "_id": {
+          "$oid": "68ac10a4a204b5de6fd83694"
+        }
+      },
+      {
+        "degree": "BSc",
+        "institute": " City University Peshawar",
+        "subject": "Science",
+        "duration": "2004 – 2007   ",
+        "_id": {
+          "$oid": "68ac10a4a204b5de6fd83695"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": " Sibyan Academy",
+        "years": "15-10-2009 to 11-01-2010 ",
+        "_id": {
+          "$oid": "68ac10a4a204b5de6fd83696"
+        }
+      },
+      {
+        "title": "Primary Teacher ",
+        "organization": " Peshawar Model School (Boys – V)",
+        "years": "13-04-2010 to 15-06-2012 ",
+        "_id": {
+          "$oid": "68ac10a4a204b5de6fd83697"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": " Educational Services (Pvt) Ltd North Region Beaconhouse School System Cantt Campus",
+        "years": "01-11-2012 to 14-06-2013 ",
+        "_id": {
+          "$oid": "68ac10a4a204b5de6fd83698"
+        }
+      },
+      {
+        "title": " Science Teacher ",
+        "organization": "The Smart School Nisthterabad Campus",
+        "years": "21-08-2013 to 07-06-2014 ",
+        "_id": {
+          "$oid": "68ac10a4a204b5de6fd83699"
+        }
+      },
+      {
+        "title": " Teacher",
+        "organization": "Educational Services (Pvt) Ltd North Region Beaconhouse School System Cantt Campus",
+        "years": " 01-09-2014 to 31-05-2017 ",
+        "_id": {
+          "$oid": "68ac10a4a204b5de6fd8369a"
+        }
+      },
+      {
+        "title": "Mathematics Teacher",
+        "organization": "Abasyn University School & College,",
+        "years": " 15-10-2018 till Date ",
+        "_id": {
+          "$oid": "68ac10a4a204b5de6fd8369b"
+        }
+      }
+    ],
+    "image": "1756106916187-noor.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd896"
+    },
+    "name": "Farah Jahangir",
+    "designation": "Urdu Teacher",
+    "email": "Fnaeem333@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "MA",
+        "institute": "University Of Peshawar",
+        "subject": "Urdu",
+        "duration": "2023",
+        "_id": {
+          "$oid": "68aea363c9dda4f595d79201"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Urdu Teacher",
+        "organization": "Uswah Model School",
+        "years": "2000-2006",
+        "_id": {
+          "$oid": "68aea363c9dda4f595d79202"
+        }
+      },
+      {
+        "title": "Urdu Teacher",
+        "organization": "Hudaibia Model School",
+        "years": "2006-2010",
+        "_id": {
+          "$oid": "68aea363c9dda4f595d79203"
+        }
+      },
+      {
+        "title": "Urdu Teacher",
+        "organization": "Educators",
+        "years": "2011-2012",
+        "_id": {
+          "$oid": "68aea363c9dda4f595d79204"
+        }
+      },
+      {
+        "title": "Urdu Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "August 2022-Present",
+        "_id": {
+          "$oid": "68aea363c9dda4f595d79205"
+        }
+      }
+    ],
+    "image": "1756275555937-farag.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd897"
+    },
+    "name": " Anum gul",
+    "designation": "Teacher/Academic Incharge",
+    "email": "anumg.ag.ag5@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "BSC",
+        "institute": " Frontier College for Women ",
+        "subject": "Computer Science",
+        "duration": "2010-2011",
+        "_id": {
+          "$oid": "68a843f80a9a12b3d0a7e72e"
+        }
+      },
+      {
+        "degree": "MSC",
+        "institute": "University of Peshawar",
+        "subject": "Computer Science",
+        "duration": "2012-2013",
+        "_id": {
+          "$oid": "68a843f80a9a12b3d0a7e72f"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": " Abasyn University School & College",
+        "years": "2017 – Present",
+        "_id": {
+          "$oid": "68a843f80a9a12b3d0a7e730"
+        }
+      },
+      {
+        "title": "Academic Incharge",
+        "organization": " Abasyn University School & College",
+        "years": "2017 – Present",
+        "_id": {
+          "$oid": "68a843f80a9a12b3d0a7e731"
+        }
+      },
+      {
+        "title": " Discipline Incharge",
+        "organization": " Abasyn University School & College",
+        "years": "2017 – Present",
+        "_id": {
+          "$oid": "68a843f80a9a12b3d0a7e732"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": " The Educators School, Gulbahar Branch",
+        "years": "2014- 2017",
+        "_id": {
+          "$oid": "68a843f80a9a12b3d0a7e733"
+        }
+      }
+    ],
+    "image": "1755857912083-WhatsApp Image 2025-08-21 at 1.10.30 PM.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd898"
+    },
+    "name": " Sidra Zafar",
+    "designation": " Science Teacher",
+    "email": "durra6699@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "MSC",
+        "institute": "Shaheed Benazir Bhutto Women University ",
+        "subject": "Organic Chemistry",
+        "duration": "---",
+        "_id": {
+          "$oid": "68aea981c9dda4f595d7920e"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Science Teacher",
+        "organization": "The Smart School ",
+        "years": "3 months",
+        "_id": {
+          "$oid": "68aea981c9dda4f595d7920f"
+        }
+      },
+      {
+        "title": "Science Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2021-Present",
+        "_id": {
+          "$oid": "68aea981c9dda4f595d79210"
+        }
+      }
+    ],
+    "image": "1756277121755-sidra.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd899"
+    },
+    "name": "Anisa Ziauddin",
+    "designation": "English Teacher",
+    "email": "anisazia21@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "BS",
+        "institute": "Shaheed Benazir Bhutto Women University Peshawar",
+        "subject": "English",
+        "duration": "---",
+        "_id": {
+          "$oid": "68af1e02fe5373bbc41e2d94"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "September 2024-Present",
+        "_id": {
+          "$oid": "68af1e02fe5373bbc41e2d95"
+        }
+      }
+    ],
+    "image": "1756306946238-woman-01.jpg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd89a"
+    },
+    "name": " Ayesha Jahangeer ",
+    "designation": "Chemistry Teacher",
+    "email": "ayeshajahangeer865@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "Msc ",
+        "institute": "Shaheed Benazir Bhutto women university ",
+        "subject": "Science",
+        "duration": "2020",
+        "_id": {
+          "$oid": "68aeaf32c9dda4f595d79303"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Senior Teacher",
+        "organization": "Fauji public high schoo",
+        "years": "2014-2017",
+        "_id": {
+          "$oid": "68aeaf32c9dda4f595d79304"
+        }
+      },
+      {
+        "title": " Senior science teacher ",
+        "organization": "Air Foundation School",
+        "years": "2020-2021.",
+        "_id": {
+          "$oid": "68aeaf32c9dda4f595d79305"
+        }
+      },
+      {
+        "title": "Visiting faculty member",
+        "organization": "Fazaia Degree college",
+        "years": "2021-2022",
+        "_id": {
+          "$oid": "68aeaf32c9dda4f595d79306"
+        }
+      },
+      {
+        "title": "Lecturer",
+        "organization": "Muslim high school and college",
+        "years": "May 2022 -Dec 2024.",
+        "_id": {
+          "$oid": "68aeaf32c9dda4f595d79307"
+        }
+      },
+      {
+        "title": "Senior teacher",
+        "organization": "Abasyn University School & College",
+        "years": "Dec 2024-Present",
+        "_id": {
+          "$oid": "68aeaf32c9dda4f595d79308"
+        }
+      }
+    ],
+    "image": "1756278578111-ayesha.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd89b"
+    },
+    "name": "  Muhammod Ghufran",
+    "designation": "Maths Teacher",
+    "email": "ghufranambiant@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "BS(HONS)",
+        "institute": "(IBMS)Agriculture University",
+        "subject": "IT",
+        "duration": "2009-2012",
+        "_id": {
+          "$oid": "68aead66c9dda4f595d792fe"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Maths Teacher",
+        "organization": " Hudaibia Model School Gulbahar ",
+        "years": "10 years",
+        "_id": {
+          "$oid": "68aead66c9dda4f595d792ff"
+        }
+      },
+      {
+        "title": "Maths Teacher",
+        "organization": " Abasyn University School",
+        "years": "-Present",
+        "_id": {
+          "$oid": "68aead66c9dda4f595d79300"
+        }
+      }
+    ],
+    "image": "1756278118439-Ghufran.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd89c"
+    },
+    "name": " IQRA JAMEEL",
+    "designation": "Maths Teacher",
+    "email": "iqraobaid55@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "M.BA ",
+        "institute": "Institute of Management studies",
+        "subject": " Finance",
+        "duration": "---",
+        "_id": {
+          "$oid": "68b178800b02e64ff5a573f1"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Admin",
+        "organization": "ICMS School System",
+        "years": "1 year",
+        "_id": {
+          "$oid": "68b178800b02e64ff5a573f2"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "The City School ",
+        "years": "2 years",
+        "_id": {
+          "$oid": "68b178800b02e64ff5a573f3"
+        }
+      },
+      {
+        "title": "Maths Teacher",
+        "organization": "Dr Zareef Memorial School ",
+        "years": "2 years",
+        "_id": {
+          "$oid": "68b178800b02e64ff5a573f4"
+        }
+      },
+      {
+        "title": "Maths Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2022-Present",
+        "_id": {
+          "$oid": "68b178800b02e64ff5a573f5"
+        }
+      }
+    ],
+    "image": "1756461184701-iqra.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd89d"
+    },
+    "name": "Alina Iqbal",
+    "designation": "GK Teacher",
+    "email": "alinaiqbal0000@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "MSc",
+        "institute": "Peshawar University",
+        "subject": "Economics",
+        "duration": "---",
+        "_id": {
+          "$oid": "68b177410b02e64ff5a573ea"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Greenwich grammar school",
+        "years": "10 months",
+        "_id": {
+          "$oid": "68b177410b02e64ff5a573eb"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Allied School Chamkani Campus",
+        "years": "1 year",
+        "_id": {
+          "$oid": "68b177410b02e64ff5a573ec"
+        }
+      },
+      {
+        "title": "Teacher and coordinator",
+        "organization": "The Knowledge School Chamkani Campus",
+        "years": "2 years",
+        "_id": {
+          "$oid": "68b177410b02e64ff5a573ed"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2022-Present",
+        "_id": {
+          "$oid": "68b177410b02e64ff5a573ee"
+        }
+      }
+    ],
+    "image": "1756460865932-alina.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd89e"
+    },
+    "name": "Quratulain Mushtaq",
+    "designation": "Islamiyat/M.Quran Teacher",
+    "email": "ahmadqain@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "BSc",
+        "institute": "Frontier College Peshawar",
+        "subject": "Biological Sciences",
+        "duration": "2007",
+        "_id": {
+          "$oid": "68aeabc0c9dda4f595d792f7"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Sir Syed Public School",
+        "years": "1",
+        "_id": {
+          "$oid": "68aeabc0c9dda4f595d792f8"
+        }
+      },
+      {
+        "title": "Islamiyat Teacher",
+        "organization": "Racines",
+        "years": "1 year",
+        "_id": {
+          "$oid": "68aeabc0c9dda4f595d792f9"
+        }
+      },
+      {
+        "title": "Islamiyat Teacher",
+        "organization": "Air Foundation",
+        "years": "2 years",
+        "_id": {
+          "$oid": "68aeabc0c9dda4f595d792fa"
+        }
+      },
+      {
+        "title": "Islamiyat/M.Quran Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "Oct 2023-Present",
+        "_id": {
+          "$oid": "68aeabc0c9dda4f595d792fb"
+        }
+      }
+    ],
+    "image": "1756277696386-qurutulain.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd89f"
+    },
+    "name": "Tabinda",
+    "designation": "Urdu Teacher",
+    "email": "tabindayasir@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "MA",
+        "institute": "Peshawar University",
+        "subject": "Urdu",
+        "duration": "2008",
+        "_id": {
+          "$oid": "68aea7d2c9dda4f595d79208"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Urdu/Islamiyat Teacher",
+        "organization": "ICMS",
+        "years": "August 2013-December 2014",
+        "_id": {
+          "$oid": "68aea7d2c9dda4f595d79209"
+        }
+      },
+      {
+        "title": "Urdu Teacher",
+        "organization": "RACINEs School System",
+        "years": "May 2015-April 2017",
+        "_id": {
+          "$oid": "68aea7d2c9dda4f595d7920a"
+        }
+      },
+      {
+        "title": "Urdu/Islamiyat Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "May 2017-Present",
+        "_id": {
+          "$oid": "68aea7d2c9dda4f595d7920b"
+        }
+      }
+    ],
+    "image": "1756276690748-tabinda.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8a0"
+    },
+    "name": "Samina Aziz",
+    "designation": "Urdu Teacher",
+    "email": "",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "M.A",
+        "institute": "Peshawar University",
+        "subject": "Urdu",
+        "duration": "---",
+        "_id": {
+          "$oid": "68affc3072f38cf4f85f29c4"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Urdu Teacher",
+        "organization": "Grammar Public School Nisterabad ",
+        "years": "2 years",
+        "_id": {
+          "$oid": "68affc3072f38cf4f85f29c5"
+        }
+      },
+      {
+        "title": "Urdu Teacher",
+        "organization": "Sewa (N.G.O) school",
+        "years": "2 years",
+        "_id": {
+          "$oid": "68affc3072f38cf4f85f29c6"
+        }
+      },
+      {
+        "title": "Urdu Teacher",
+        "organization": "Grammar Public School Gulbahar",
+        "years": "4 Years",
+        "_id": {
+          "$oid": "68affc3072f38cf4f85f29c7"
+        }
+      },
+      {
+        "title": "Urdu/Islmaiyat Teacher",
+        "organization": "City model School and College Gulbahar",
+        "years": "5 Years",
+        "_id": {
+          "$oid": "68affc3072f38cf4f85f29c8"
+        }
+      },
+      {
+        "title": "Urdu Teacher",
+        "organization": "K.I.C school",
+        "years": "5 years",
+        "_id": {
+          "$oid": "68affc3072f38cf4f85f29c9"
+        }
+      },
+      {
+        "title": "Urdu Teacher",
+        "organization": "Nimra Public School",
+        "years": "7 Years",
+        "_id": {
+          "$oid": "68affc3072f38cf4f85f29ca"
+        }
+      },
+      {
+        "title": "Urdu Teacher",
+        "organization": "Abasyn University School and College",
+        "years": "2019-Present",
+        "_id": {
+          "$oid": "68affc3072f38cf4f85f29cb"
+        }
+      }
+    ],
+    "image": "1756363824296-samina.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8a1"
+    },
+    "name": "Aleesha Ahmad",
+    "designation": "Computer Teacher",
+    "email": "Alisha.ahmad6767@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "M.Sc",
+        "institute": "Shaheed Benazir  Bhutto Women University",
+        "subject": "Computer Science",
+        "duration": "2020",
+        "_id": {
+          "$oid": "68aff03272f38cf4f85f29c0"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2020-Present",
+        "_id": {
+          "$oid": "68aff03272f38cf4f85f29c1"
+        }
+      }
+    ],
+    "image": "1756360754861-Aleesha (1).jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8a2"
+    },
+    "name": " QURAT-UL-AIN SETHI  \t",
+    "designation": "Librarian/Junior Academic Incharge",
+    "email": "annie27qs@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "MSc",
+        "institute": "University Of Peshawar",
+        "subject": " Psychology",
+        "duration": "2014",
+        "_id": {
+          "$oid": "68b17abc0b02e64ff5a573f8"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Psychologist and Lecture",
+        "organization": "Army Public School & College ",
+        "years": " 2016-2017",
+        "_id": {
+          "$oid": "68b17abc0b02e64ff5a573f9"
+        }
+      },
+      {
+        "title": "Librarian/Academic Incharge",
+        "organization": "Abasyn University School & College",
+        "years": "-Present",
+        "_id": {
+          "$oid": "68b17abc0b02e64ff5a573fa"
+        }
+      }
+    ],
+    "image": "1756461756587-annie.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8a3"
+    },
+    "name": "Hira Salah-Ud-Din",
+    "designation": "GK Teacher",
+    "email": "",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "BSc",
+        "institute": "University Of Peshawar",
+        "subject": "Zoology",
+        "duration": "2006-2008",
+        "_id": {
+          "$oid": "68b17c020b02e64ff5a573fd"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "English Grammar School",
+        "years": "2008-2010",
+        "_id": {
+          "$oid": "68b17c020b02e64ff5a573fe"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Educators School Gulabahar",
+        "years": "2022-2023",
+        "_id": {
+          "$oid": "68b17c020b02e64ff5a573ff"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2023-Present",
+        "_id": {
+          "$oid": "68b17c020b02e64ff5a57400"
+        }
+      }
+    ],
+    "image": "1756462082657-hira.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8a4"
+    },
+    "name": "Sadarat Bibi",
+    "designation": "Nazra Teacher",
+    "email": "hamidullah4488@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "M.A",
+        "institute": "---",
+        "subject": "Islamiyat",
+        "duration": "2016",
+        "_id": {
+          "$oid": "68b28d53deedf588b0c24a6e"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Al-Haziq Model School",
+        "years": "3 years",
+        "_id": {
+          "$oid": "68b28d53deedf588b0c24a6f"
+        }
+      },
+      {
+        "title": "Lady Teacher",
+        "organization": "Frobels System School",
+        "years": "---",
+        "_id": {
+          "$oid": "68b28d53deedf588b0c24a70"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School and College",
+        "years": "2023-Present",
+        "_id": {
+          "$oid": "68b28d53deedf588b0c24a71"
+        }
+      }
+    ],
+    "image": "1756532051636-sadarat.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8a5"
+    },
+    "name": "Sidra Javed",
+    "designation": "Maths Teacher",
+    "email": "sidrajaveed22@yahoo.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "M.Sc ",
+        "institute": "Peshawar University",
+        "subject": "Economics",
+        "duration": "2008",
+        "_id": {
+          "$oid": "68bbd7e42d50c68d634f5671"
+        }
+      },
+      {
+        "degree": "M. Phil",
+        "institute": "Qurtaba University",
+        "subject": "Economics",
+        "duration": " 2019",
+        "_id": {
+          "$oid": "68bbd7e42d50c68d634f5672"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Maths Teacher",
+        "organization": "The Smart School ",
+        "years": "March 2019 till May 2021",
+        "_id": {
+          "$oid": "68bbd7e42d50c68d634f5673"
+        }
+      },
+      {
+        "title": "Maths Teacher",
+        "organization": "Air foundation School ",
+        "years": " March 2022 to December 2023",
+        "_id": {
+          "$oid": "68bbd7e42d50c68d634f5674"
+        }
+      },
+      {
+        "title": "Maths Teacher",
+        "organization": "ICMS School Ring road campus ",
+        "years": "January 2024 till October 2024",
+        "_id": {
+          "$oid": "68bbd7e42d50c68d634f5675"
+        }
+      },
+      {
+        "title": "Maths Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2024-present",
+        "_id": {
+          "$oid": "68bbd7e42d50c68d634f5676"
+        }
+      }
+    ],
+    "image": "1757140964940-WhatsApp Image 2025-09-06 at 10.39.58 AM.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8a6"
+    },
+    "name": "MEHWISH MUNIR",
+    "designation": "Teacher",
+    "email": "mehwishadnan76@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "Masters",
+        "institute": "Al- Khair University ",
+        "subject": "Business Administration ",
+        "duration": "1999",
+        "_id": {
+          "$oid": "68b290e1deedf588b0c24a7c"
+        }
+      },
+      {
+        "degree": "Masters",
+        "institute": "Peshawar University",
+        "subject": "Economics",
+        "duration": "2003",
+        "_id": {
+          "$oid": "68b290e1deedf588b0c24a7d"
+        }
+      },
+      {
+        "degree": "MPhil",
+        "institute": "Abasyn University Peshawar.",
+        "subject": "Economics",
+        "duration": "2019 -2021",
+        "_id": {
+          "$oid": "68b290e1deedf588b0c24a7e"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "ACCOUNTS EXECUTIVE",
+        "organization": "Rehman Medical Institute",
+        "years": " 2002-2003",
+        "_id": {
+          "$oid": "68b290e1deedf588b0c24a7f"
+        }
+      },
+      {
+        "title": "Finance Manager",
+        "organization": "SDC/UNDP Funded Project EIROP",
+        "years": "2003 - 2004",
+        "_id": {
+          "$oid": "68b290e1deedf588b0c24a80"
+        }
+      },
+      {
+        "title": "Lecturer",
+        "organization": "CECOSE University Hayatabad ",
+        "years": "2005- 2013",
+        "_id": {
+          "$oid": "68b290e1deedf588b0c24a81"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College.",
+        "years": "2018-Present",
+        "_id": {
+          "$oid": "68b290e1deedf588b0c24a82"
+        }
+      }
+    ],
+    "image": "1756532961261-Mehwish.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8a7"
+    },
+    "name": "Maria Noor",
+    "designation": "Pre-Nursery Teacher",
+    "email": "",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": "M.A",
+        "institute": "---",
+        "subject": "Arts",
+        "duration": "2014",
+        "_id": {
+          "$oid": "68bbdc9d2d50c68d634f57db"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Hudaibia Model School",
+        "years": "5 years",
+        "_id": {
+          "$oid": "68bbdc9d2d50c68d634f57dc"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Peshawar Model School",
+        "years": "3 years",
+        "_id": {
+          "$oid": "68bbdc9d2d50c68d634f57dd"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Forward School",
+        "years": "2 years",
+        "_id": {
+          "$oid": "68bbdc9d2d50c68d634f57de"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "The Educators",
+        "years": "2 years",
+        "_id": {
+          "$oid": "68bbdc9d2d50c68d634f57df"
+        }
+      },
+      {
+        "title": "Techer",
+        "organization": "Abasyn University School & College",
+        "years": "2022-Present",
+        "_id": {
+          "$oid": "68bbdc9d2d50c68d634f57e0"
+        }
+      }
+    ],
+    "image": "1757142173366-WhatsApp Image 2025-08-30 at 11.28.49 AM.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8a8"
+    },
+    "name": "Zoneera Mehboob",
+    "designation": "Nursery Teacher",
+    "email": "",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": "B.A",
+        "institute": "Hazara University",
+        "subject": "Arts",
+        "duration": "---",
+        "_id": {
+          "$oid": "68bbde372d50c68d634f581f"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Ali Garh Public School",
+        "years": "1 year",
+        "_id": {
+          "$oid": "68bbde372d50c68d634f5820"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "New Garden Public School",
+        "years": "1 year",
+        "_id": {
+          "$oid": "68bbde372d50c68d634f5821"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "The Knowledge School",
+        "years": "6 years",
+        "_id": {
+          "$oid": "68bbde372d50c68d634f5822"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2024-Present",
+        "_id": {
+          "$oid": "68bbde372d50c68d634f5823"
+        }
+      }
+    ],
+    "image": "1757142583114-WhatsApp Image 2025-08-30 at 11.29.08 AM.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8a9"
+    },
+    "name": "Iqra Noor",
+    "designation": "Nursery Teacher",
+    "email": "",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": "M.A",
+        "institute": "---",
+        "subject": "Arts",
+        "duration": "2023",
+        "_id": {
+          "$oid": "68bbdf302d50c68d634f5826"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "The Educators",
+        "years": "4 years",
+        "_id": {
+          "$oid": "68bbdf302d50c68d634f5827"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2024-Present",
+        "_id": {
+          "$oid": "68bbdf302d50c68d634f5828"
+        }
+      }
+    ],
+    "image": "1757142832659-WhatsApp Image 2025-08-29 at 9.53.23 PM.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8aa"
+    },
+    "name": "Sundas Bibi",
+    "designation": "KG Teacher",
+    "email": "",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": "M.A",
+        "institute": "University of Peshawar",
+        "subject": "Islamiyat",
+        "duration": "---",
+        "_id": {
+          "$oid": "68bbe0332d50c68d634f582b"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": " Sanabil School System",
+        "years": "1 Year",
+        "_id": {
+          "$oid": "68bbe0332d50c68d634f582c"
+        }
+      },
+      {
+        "title": "Teacher ",
+        "organization": "Racines School System",
+        "years": "1 Year",
+        "_id": {
+          "$oid": "68bbe0332d50c68d634f582d"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Govt.Girls High School Sheikhabad",
+        "years": "5 months",
+        "_id": {
+          "$oid": "68bbe0332d50c68d634f582e"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Superior Model School",
+        "years": " 3 Years",
+        "_id": {
+          "$oid": "68bbe0332d50c68d634f582f"
+        }
+      },
+      {
+        "title": "Teacher ",
+        "organization": " Abasyn University School & College",
+        "years": "2019-present",
+        "_id": {
+          "$oid": "68bbe0332d50c68d634f5830"
+        }
+      }
+    ],
+    "image": "1757143091403-WhatsApp Image 2025-08-30 at 11.30.48 AM.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8ab"
+    },
+    "name": "NAYAB TARIQ",
+    "designation": "KG Teacher",
+    "email": "zain2381fm@gmail.com",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": "MA",
+        "institute": "University Of Peshawar",
+        "subject": "Gender Studies",
+        "duration": "2014",
+        "_id": {
+          "$oid": "68bbe30c2d50c68d634f5841"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Internship",
+        "organization": "Fauji Foundation Teaching Hospital",
+        "years": " Mar-2012 to May-2012.",
+        "_id": {
+          "$oid": "68bbe30c2d50c68d634f5842"
+        }
+      },
+      {
+        "title": " Lecturer ",
+        "organization": " Jinnah International Degree College Peshawar ",
+        "years": "Sep-2015 to Dec 2017",
+        "_id": {
+          "$oid": "68bbe30c2d50c68d634f5843"
+        }
+      },
+      {
+        "title": "Coordinator",
+        "organization": " Creative Learning School Jhagra",
+        "years": " Apr-2019 to Mar-2020",
+        "_id": {
+          "$oid": "68bbe30c2d50c68d634f5844"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "Apr-2020 -Present",
+        "_id": {
+          "$oid": "68bbe30c2d50c68d634f5845"
+        }
+      }
+    ],
+    "image": "1757143820484-WhatsApp Image 2025-08-29 at 9.58.40 PM.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8ac"
+    },
+    "name": "SYEDA KHUBROO FATIMA",
+    "designation": "KG Teacher",
+    "email": "Khubroofatima77@gmail.com",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": "B.Ed",
+        "institute": "University of Peshawar",
+        "subject": "Education",
+        "duration": "2023",
+        "_id": {
+          "$oid": "68bbe1602d50c68d634f583b"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Edward English Institute",
+        "years": "2019 - 2020",
+        "_id": {
+          "$oid": "68bbe1602d50c68d634f583c"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "University Model School",
+        "years": "2022 – 2023",
+        "_id": {
+          "$oid": "68bbe1602d50c68d634f583d"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School and College",
+        "years": "2023-Present",
+        "_id": {
+          "$oid": "68bbe1602d50c68d634f583e"
+        }
+      }
+    ],
+    "image": "1757143392620-WhatsApp Image 2025-08-29 at 9.53.23 PM (2).jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8ad"
+    },
+    "name": "Sara Abbas",
+    "designation": "Calligraphy Teacher",
+    "email": "",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "B.A",
+        "institute": "University Of Peshawar",
+        "subject": "Arts",
+        "duration": "2017",
+        "_id": {
+          "$oid": "68bbe5672d50c68d634f58ff"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Racines School System",
+        "years": "6 Months",
+        "_id": {
+          "$oid": "68bbe5672d50c68d634f5900"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Iqra Jannat Ul Atfal School",
+        "years": "1 year",
+        "_id": {
+          "$oid": "68bbe5672d50c68d634f5901"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Sir Syed Public School",
+        "years": "2 year",
+        "_id": {
+          "$oid": "68bbe5672d50c68d634f5902"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Sir Syed Public School",
+        "years": "2 Year",
+        "_id": {
+          "$oid": "68bbe5672d50c68d634f5903"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Peshawar Model School Boys III",
+        "years": "3 years",
+        "_id": {
+          "$oid": "68bbe5672d50c68d634f5904"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2025-Present",
+        "_id": {
+          "$oid": "68bbe5672d50c68d634f5905"
+        }
+      }
+    ],
+    "image": "1757144423945-sara.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8ae"
+    },
+    "name": " RIMSHA SHAKIR ",
+    "designation": "KG Teacher",
+    "email": "rimshashakir15@gmail.com",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": " BS ",
+        "institute": "---",
+        "subject": "Zoology",
+        "duration": "2021",
+        "_id": {
+          "$oid": "68bed3bb04850516c6009365"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2021 -Present",
+        "_id": {
+          "$oid": "68bed3bb04850516c6009366"
+        }
+      }
+    ],
+    "image": "1757336507391-WhatsApp Image 2025-08-29 at 9.53.23 PM (3).jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8af"
+    },
+    "name": "Saman Mustafa",
+    "designation": "Nursery Teacher",
+    "email": "",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": "M.A",
+        "institute": "---",
+        "subject": "Arts",
+        "duration": "In Progress",
+        "_id": {
+          "$oid": "68bed55104850516c60093a9"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2021-Present",
+        "_id": {
+          "$oid": "68bed55104850516c60093aa"
+        }
+      }
+    ],
+    "image": "1757336913794-WhatsApp Image 2025-08-30 at 12.14.56 PM.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8b0"
+    },
+    "name": "Sidra Ali",
+    "designation": "Pre-nursery Teacher",
+    "email": "sa8060958@gmail.com",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": "MS",
+        "institute": "---",
+        "subject": "Education ",
+        "duration": "In Progress",
+        "_id": {
+          "$oid": "68bed60004850516c60093ad"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School and College  ",
+        "years": "2024 – Present",
+        "_id": {
+          "$oid": "68bed60004850516c60093ae"
+        }
+      }
+    ],
+    "image": "1757337088017-WhatsApp Image 2025-08-29 at 9.53.23 PM (4).jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8b1"
+    },
+    "name": "Munazza Batool",
+    "designation": "Pak-studies Teacher",
+    "email": "munazzahbatool7@gmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "M.A",
+        "institute": "Peshawar University",
+        "subject": "History",
+        "duration": "2017",
+        "_id": {
+          "$oid": "68bed86d04850516c600940b"
+        }
+      },
+      {
+        "degree": "M.A",
+        "institute": "University Of Peshawar",
+        "subject": "International Relations",
+        "duration": "2022",
+        "_id": {
+          "$oid": "68bed86d04850516c600940c"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Muslim Cambridge Public High School",
+        "years": "---",
+        "_id": {
+          "$oid": "68bed86d04850516c600940d"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "The Allied School",
+        "years": "---",
+        "_id": {
+          "$oid": "68bed86d04850516c600940e"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "The Smart School",
+        "years": "---",
+        "_id": {
+          "$oid": "68bed86d04850516c600940f"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2024-Present",
+        "_id": {
+          "$oid": "68bed86d04850516c6009410"
+        }
+      }
+    ],
+    "image": "1757337709265-WhatsApp Image 2025-09-06 at 10.38.32 AM.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8b2"
+    },
+    "name": "Bushra Parveen",
+    "designation": "Islamiyat Teacher",
+    "email": "",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "M.A ",
+        "institute": "---",
+        "subject": "Islamiyat",
+        "duration": "---",
+        "_id": {
+          "$oid": "68bed93504850516c6009413"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Educators school town campus",
+        "years": "5 years",
+        "_id": {
+          "$oid": "68bed93504850516c6009414"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2018-Present",
+        "_id": {
+          "$oid": "68bed93504850516c6009415"
+        }
+      }
+    ],
+    "image": "1757337909836-WhatsApp Image 2025-08-28 at 10.56.29 AM (1).jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8b3"
+    },
+    "name": "SAIMA BASHIR",
+    "designation": "Maths Teacher",
+    "email": "fma23122015@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "B.ED",
+        "institute": "Allama Iqbal Open University",
+        "subject": "Maths + Statistic",
+        "duration": "2016",
+        "_id": {
+          "$oid": "68beda9904850516c60094d5"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Wisdom Public School",
+        "years": "2 years",
+        "_id": {
+          "$oid": "68beda9904850516c60094d6"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Peshawar Children Academy ",
+        "years": "5 years",
+        "_id": {
+          "$oid": "68beda9904850516c60094d7"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2024-Present",
+        "_id": {
+          "$oid": "68beda9904850516c60094d8"
+        }
+      }
+    ],
+    "image": "1757338265494-WhatsApp Image 2025-08-27 at 11.31.55 PM (2).jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8b4"
+    },
+    "name": " Laila Saleh",
+    "designation": "Academic Incharge",
+    "email": "lailasaleh88@gmail.com",
+    "section": "pre-school",
+    "education": [
+      {
+        "degree": "Master of Arts",
+        "institute": " UNIVERSITY OF PESHAWAR",
+        "subject": "Political Science",
+        "duration": " 2014",
+        "_id": {
+          "$oid": "68bef1f471c8c99ce26befc5"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": " Teacher",
+        "organization": " Asian Model School",
+        "years": " 2011 - 2013",
+        "_id": {
+          "$oid": "68bef1f471c8c99ce26befc6"
+        }
+      },
+      {
+        "title": " Teacher",
+        "organization": "The Educators Gulbahar Campus, Gulbahar",
+        "years": " 2014 - 2014",
+        "_id": {
+          "$oid": "68bef1f471c8c99ce26befc7"
+        }
+      },
+      {
+        "title": " Teacher",
+        "organization": " Allied School Gulbahar Campus, Gulbahar",
+        "years": " 2016 - 2016",
+        "_id": {
+          "$oid": "68bef1f471c8c99ce26befc8"
+        }
+      },
+      {
+        "title": " Preschool academic Incharge",
+        "organization": " Abasyn University School and college",
+        "years": " 2017 - Present",
+        "_id": {
+          "$oid": "68bef1f471c8c99ce26befc9"
+        }
+      }
+    ],
+    "image": "1757344243973-faculty1.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8b5"
+    },
+    "name": " Farah Saeed",
+    "designation": "English Teacher",
+    "email": "farahsaeedch22@gmail.com",
+    "section": "primary",
+    "education": [
+      {
+        "degree": "BS ",
+        "institute": "Shaheed Benazir Bhutto Women University",
+        "subject": "Chemistry",
+        "duration": "2019-2023",
+        "_id": {
+          "$oid": "68bef36671c8c99ce26beff5"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": " Standard education system",
+        "years": "---",
+        "_id": {
+          "$oid": "68bef36671c8c99ce26beff6"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Galaxy model school",
+        "years": "---",
+        "_id": {
+          "$oid": "68bef36671c8c99ce26beff7"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "ICMS ",
+        "years": "---",
+        "_id": {
+          "$oid": "68bef36671c8c99ce26beff8"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Abasyn University School & College",
+        "years": "2024-Present",
+        "_id": {
+          "$oid": "68bef36671c8c99ce26beff9"
+        }
+      }
+    ],
+    "image": "1757344614697-WhatsApp Image 2025-09-08 at 8.14.07 PM.jpeg",
+    "languages": ""
+  },
+  {
+    "_id": {
+      "$oid": "68d8f7b48c7ee307746fd8b6"
+    },
+    "name": "FARYAL HABIB",
+    "designation": "Chemistry Teacher/Discipline Incharge",
+    "email": "faryme@hotmail.com",
+    "section": "secondary",
+    "education": [
+      {
+        "degree": "Masters",
+        "institute": "University of Peshawar",
+        "subject": "Education",
+        "duration": "2017",
+        "_id": {
+          "$oid": "68befb6171c8c99ce26bf31d"
+        }
+      },
+      {
+        "degree": "Mphil",
+        "institute": "Abasyn University",
+        "subject": "Education",
+        "duration": "2022",
+        "_id": {
+          "$oid": "68befb6171c8c99ce26bf31e"
+        }
+      },
+      {
+        "degree": "Masters",
+        "institute": "University of Peshawar",
+        "subject": "Chemistry",
+        "duration": "2013",
+        "_id": {
+          "$oid": "68befb6171c8c99ce26bf31f"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teacher",
+        "organization": "Peshawar Model School",
+        "years": "1 year",
+        "_id": {
+          "$oid": "68befb6171c8c99ce26bf320"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Roots millennium School ",
+        "years": "1 year",
+        "_id": {
+          "$oid": "68befb6171c8c99ce26bf321"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Forward high School",
+        "years": "5 years",
+        "_id": {
+          "$oid": "68befb6171c8c99ce26bf322"
+        }
+      },
+      {
+        "title": "Lecturer",
+        "organization": "Jinnah Islamia Degree College for girls",
+        "years": "---",
+        "_id": {
+          "$oid": "68befb6171c8c99ce26bf323"
+        }
+      },
+      {
+        "title": "Teacher",
+        "organization": "Lahore Grammar School",
+        "years": "---",
+        "_id": {
+          "$oid": "68befb6171c8c99ce26bf324"
+        }
+      },
+      {
+        "title": "Teacher/Academic Incharge",
+        "organization": "Abasyn University school and college ",
+        "years": "2019-Present",
+        "_id": {
+          "$oid": "68befb6171c8c99ce26bf325"
+        }
+      }
+    ],
+    "image": "1757346657099-WhatsApp Image 2025-09-08 at 8.40.09 PM.jpeg",
+    "languages": ""
+  }
+]

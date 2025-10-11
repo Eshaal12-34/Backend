@@ -28,7 +28,6 @@ router.post(
 
       const education = JSON.parse(req.body.education || "[]");
       const experience = JSON.parse(req.body.experience || "[]");
-      const languages = JSON.parse(req.body.languages || "[]");
 
       const newFaculty = new Faculty({
         name,
@@ -38,7 +37,6 @@ router.post(
         image,
         education,
         experience,
-        languages,
       });
 
       await newFaculty.save();

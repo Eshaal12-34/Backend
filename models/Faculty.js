@@ -19,7 +19,6 @@ const facultySchema = new mongoose.Schema({
   section: String,   // ✅ add this
   education: [educationSchema],
   experience: [experienceSchema],
-  languages: [String],
 });
 
 
